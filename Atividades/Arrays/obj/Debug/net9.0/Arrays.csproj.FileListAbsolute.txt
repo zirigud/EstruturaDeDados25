@@ -1,0 +1,14 @@
+C:\UNOESC - ARTHUR PERRET\2025\Estrutura de dados\Atividades\Arrays\bin\Debug\net9.0\Arrays.exe
+C:\UNOESC - ARTHUR PERRET\2025\Estrutura de dados\Atividades\Arrays\bin\Debug\net9.0\Arrays.deps.json
+C:\UNOESC - ARTHUR PERRET\2025\Estrutura de dados\Atividades\Arrays\bin\Debug\net9.0\Arrays.runtimeconfig.json
+C:\UNOESC - ARTHUR PERRET\2025\Estrutura de dados\Atividades\Arrays\bin\Debug\net9.0\Arrays.dll
+C:\UNOESC - ARTHUR PERRET\2025\Estrutura de dados\Atividades\Arrays\bin\Debug\net9.0\Arrays.pdb
+C:\UNOESC - ARTHUR PERRET\2025\Estrutura de dados\Atividades\Arrays\obj\Debug\net9.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNOESC - ARTHUR PERRET\2025\Estrutura de dados\Atividades\Arrays\obj\Debug\net9.0\Arrays.AssemblyInfoInputs.cache
+C:\UNOESC - ARTHUR PERRET\2025\Estrutura de dados\Atividades\Arrays\obj\Debug\net9.0\Arrays.AssemblyInfo.cs
+C:\UNOESC - ARTHUR PERRET\2025\Estrutura de dados\Atividades\Arrays\obj\Debug\net9.0\Arrays.csproj.CoreCompileInputs.cache
+C:\UNOESC - ARTHUR PERRET\2025\Estrutura de dados\Atividades\Arrays\obj\Debug\net9.0\Arrays.dll
+C:\UNOESC - ARTHUR PERRET\2025\Estrutura de dados\Atividades\Arrays\obj\Debug\net9.0\refint\Arrays.dll
+C:\UNOESC - ARTHUR PERRET\2025\Estrutura de dados\Atividades\Arrays\obj\Debug\net9.0\Arrays.pdb
+C:\UNOESC - ARTHUR PERRET\2025\Estrutura de dados\Atividades\Arrays\obj\Debug\net9.0\Arrays.genruntimeconfig.cache
+C:\UNOESC - ARTHUR PERRET\2025\Estrutura de dados\Atividades\Arrays\obj\Debug\net9.0\ref\Arrays.dll
