@@ -1,0 +1,15 @@
+C:\UNOESC - ARTHUR PERRET\2025\Estrutura de dados\Atividades\JaggedArrays\bin\Debug\net9.0\JaggedArrays.exe
+C:\UNOESC - ARTHUR PERRET\2025\Estrutura de dados\Atividades\JaggedArrays\bin\Debug\net9.0\JaggedArrays.deps.json
+C:\UNOESC - ARTHUR PERRET\2025\Estrutura de dados\Atividades\JaggedArrays\bin\Debug\net9.0\JaggedArrays.runtimeconfig.json
+C:\UNOESC - ARTHUR PERRET\2025\Estrutura de dados\Atividades\JaggedArrays\bin\Debug\net9.0\JaggedArrays.dll
+C:\UNOESC - ARTHUR PERRET\2025\Estrutura de dados\Atividades\JaggedArrays\bin\Debug\net9.0\JaggedArrays.pdb
+C:\UNOESC - ARTHUR PERRET\2025\Estrutura de dados\Atividades\JaggedArrays\obj\Debug\net9.0\JaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNOESC - ARTHUR PERRET\2025\Estrutura de dados\Atividades\JaggedArrays\obj\Debug\net9.0\JaggedArrays.AssemblyInfoInputs.cache
+C:\UNOESC - ARTHUR PERRET\2025\Estrutura de dados\Atividades\JaggedArrays\obj\Debug\net9.0\JaggedArrays.AssemblyInfo.cs
+C:\UNOESC - ARTHUR PERRET\2025\Estrutura de dados\Atividades\JaggedArrays\obj\Debug\net9.0\JaggedArrays.csproj.CoreCompileInputs.cache
+C:\UNOESC - ARTHUR PERRET\2025\Estrutura de dados\Atividades\JaggedArrays\obj\Debug\net9.0\JaggedArrays.sourcelink.json
+C:\UNOESC - ARTHUR PERRET\2025\Estrutura de dados\Atividades\JaggedArrays\obj\Debug\net9.0\JaggedArrays.dll
+C:\UNOESC - ARTHUR PERRET\2025\Estrutura de dados\Atividades\JaggedArrays\obj\Debug\net9.0\refint\JaggedArrays.dll
+C:\UNOESC - ARTHUR PERRET\2025\Estrutura de dados\Atividades\JaggedArrays\obj\Debug\net9.0\JaggedArrays.pdb
+C:\UNOESC - ARTHUR PERRET\2025\Estrutura de dados\Atividades\JaggedArrays\obj\Debug\net9.0\JaggedArrays.genruntimeconfig.cache
+C:\UNOESC - ARTHUR PERRET\2025\Estrutura de dados\Atividades\JaggedArrays\obj\Debug\net9.0\ref\JaggedArrays.dll
